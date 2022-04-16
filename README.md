@@ -12,7 +12,7 @@
 #### 5. What is the most common drug used?
 ## :bulb:Skills Used:
 #### * Supervised Machine Learning: Regression
-#### * Unsupervised Machine Learning: CLustering
+#### * Unsupervised Machine Learning: Clustering
 #### * Analyzing Time Series Data
 ## :desktop_computer: Tools:
 #### Jupyter Notebook
