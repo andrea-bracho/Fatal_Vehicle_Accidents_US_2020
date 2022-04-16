@@ -10,6 +10,10 @@
 #### 3. Is there a difference on the number of datal accidents between weekdays and the weekend? 
 #### 4. Do drug/alcohol use play a major role on fatal accidents
 #### 5. What is the most common drug used?
+## :bulb:Skills Used:
+#### * Supervised Machine Learning: Regression
+#### * Unsupervised Machine Learning: CLustering
+#### * Analyzing Time Series Data
 ## :desktop_computer: Tools:
 #### Jupyter Notebook
 #### Tableau
