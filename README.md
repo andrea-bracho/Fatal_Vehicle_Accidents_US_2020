@@ -15,8 +15,9 @@
 #### * Unsupervised Machine Learning: Clustering
 #### * Analyzing Time Series Data
 ## :desktop_computer: Tools:
-#### Jupyter Notebook
+#### Python
 #### Tableau
+#### Machine Learning
 ## :rotating_light: Final Presentation:
 #### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/shared/QGF3D26C6?:display_count=n&:origin=viz_share_link)
 
