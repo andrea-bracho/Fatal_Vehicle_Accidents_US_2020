@@ -19,6 +19,6 @@
 #### Tableau
 #### Machine Learning
 ## :rotating_light: Final Presentation:
-#### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/shared/QGF3D26C6?:display_count=n&:origin=viz_share_link)
+#### The final presentation was made using Tableau. [take a look!](https://public.tableau.com/views/FatalaccidentsUSA2020/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 :stop_sign:
