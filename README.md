@@ -11,6 +11,9 @@
 #### 4. Do drug/alcohol use play a major role on fatal accidents?
 #### 5. What is the most commonly drug used?
 ## :bulb:Skills Used:
+#### * Consistency checks
+#### * Correlation matrices and heatmaps
+#### * Choropleth maps
 #### * Supervised Machine Learning: Regression
 #### * Unsupervised Machine Learning: Clustering
 #### * Analyzing Time Series Data
