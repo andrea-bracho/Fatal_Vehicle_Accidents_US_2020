@@ -7,7 +7,7 @@
 ## :construction: Key questions and Objectives:
 #### 1. Which states have the most number of fatal accident sin the U.S.?
 #### 2. At what time of the day are there more fatal accidents reported?
-#### 3. Is there a difference on the number of datal accidents between weekdays and the weekend? 
+#### 3. Is there a difference on the number of fatal accidents between weekdays and the weekend? 
 #### 4. Do drug/alcohol use play a major role on fatal accidents
 #### 5. What is the most common drug used?
 ## :bulb:Skills Used:
